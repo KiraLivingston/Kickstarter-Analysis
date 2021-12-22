@@ -15,7 +15,7 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+  That github sucks, and I'm exhausted with the nonsensical hoops that I've had to jump through.
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
